@@ -1,2 +1,2 @@
 # StatisticalDistributions
-Librería Kotlin Multiplataforma para distribuciones estadísticas. Proporciona tablas de probabilidades, funciones de interpolación y redondeo consistente para cálculos estadísticos en múltiples plataformas.
+Una implementación multiplataforma android/iOS para trabajar con distribuciones estadísticas, ideal para aplicaciones que requieren cálculos confiables y consistentes en diversos entornos. La librería incluye tablas de probabilidad, funciones de interpolación y utilidades de redondeo definidas en un módulo común para asegurar la uniformidad del comportamiento en todas las plataformas.
